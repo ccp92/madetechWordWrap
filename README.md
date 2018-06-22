@@ -1,4 +1,4 @@
 # madetechWordWrap
 Word Wrap kata for Made Tech Academy
 
-http://thecleancoder.blogspot.co.uk/2010/10/craftsman-62-dark-path.html
+http://lisahamm.com/blog/2015/02/12/word-wrap-kata-in-ruby/
